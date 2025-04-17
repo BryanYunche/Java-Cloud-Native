@@ -18,5 +18,6 @@ public class ExemploDoWhile {
 		System.out.println("Atendeu? " + atendeu);
 		//negando o ato de continuar tocando
 		return ! atendeu;
+		
 	}
 }
