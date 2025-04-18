@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "FormatadorCepExemplo",
+            "projectName": "java-terminal_b319052"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "ExemploExcecao",
+            "projectName": "java-terminal_b319052"
+        },
+        {
+            "type": "java",
             "name": "AboutMeScanner",
             "request": "launch",
             "mainClass": "AboutMeScanner",
